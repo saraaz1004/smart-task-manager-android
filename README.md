@@ -27,28 +27,28 @@ Android task management application developed in Android Studio using Kotlin and
 ## Screenshots
 
 ### Login Screen
-![Login](Screenshot_23.png)
+![Login](screenshots/Screenshot_23.png)
 
 ### Login Validation
-![Validation](Screenshot_22.png)
+![Validation](screenshots/Screenshot_22.png)
 
 ### Registration Screen
-![Register](Screenshot_21.png)
+![Register](screenshots/Screenshot_21.png)
 
 ### Main Dashboard
-![Dashboard](Screenshot_20.png)
+![Dashboard](screenshots/Screenshot_20.png)
 
 ### Task List
-![Tasks](Screenshot_19.png)
+![Tasks](screenshots/Screenshot_19.png)
 
 ### Task List With Completed Tasks
-![Completed Tasks](Screenshot_18.png)
+![Completed Tasks](screenshots/Screenshot_18.png)
 
 ### Update Task Screen
-![Update Task](Screenshot_17.png)
+![Update Task](screenshots/Screenshot_17.png)
 
 ### Statistics Dashboard
-![Statistics](Screenshot_16.png)
+![Statistics](screenshots/Screenshot_16.png)
 
 ## Application Functionality
 
